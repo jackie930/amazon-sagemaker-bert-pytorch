@@ -63,13 +63,6 @@ By taking advantage of transfer learning, one can quickly fine tune BERT for ano
 relatively small amount of training data to achieve state-of-the-art results for common NLP tasks,
 such as text classification and question answering.
 
-
-### Quick start
-
-*  run hugging face version, fer to 'train-huggingface/sagemaker-notebook.ipynb'
-* run origin pytorch version 'train-org-pytorch/bert-sm-python-sdk-hp.ipynb'
-
-
 ### Reference
 
 [1] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding,
